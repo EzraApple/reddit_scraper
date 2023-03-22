@@ -1,4 +1,5 @@
-# simpleRedditScraper
+# reddit_scraper
+A simple command line scraper to get subreddit top post information using several sorting methods.
 In order to use this program, you must input some personal information
 so that it works through your account/app
 
