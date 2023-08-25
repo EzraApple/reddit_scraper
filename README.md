@@ -9,7 +9,7 @@ For the variables named "appKey" and "secretKey", go to 'https://www.reddit.com/
 and create an app (script for personal use). Input the app key into "appKey" and the secret 
 into "secretKey"
 
-With the empty variables filled with this information, you will be able to access the reddit API 
+With the information filled iin, you will be able to access the reddit API 
 and get information about posts in subreddits (title and user).
 
 When the script is run from the command line, you will be prompted for subreddit, sorting method,
